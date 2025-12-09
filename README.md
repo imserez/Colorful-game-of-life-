@@ -28,7 +28,7 @@ The simulation is performed using bit-level parallelism techniques:
 * ESP8266 Microcontroller (NodeMCU 1.0)
 * 1.8" TFT Display (ST7735 driver)
 * [`TFT_eSPI` library](https://github.com/Bodmer/TFT_eSPI)
-* Base code originally derived from academic projects (CS61C).
+* Base code originally derived as part of a lab challenge in academic projects (CS61C).
 
 ---
 
